@@ -2,6 +2,8 @@
 
 본 문서는 Multi-container 아키텍처를 기반으로 Multi-phase CT(N, A, P, D) 데이터를 분석하여 신장, 종양, 혈관, 요관을 세그멘테이션하고 3D 시각화 데이터(GLB)를 생성하는 인공지능 파이프라인의 사양과 워크플로우를 기술합니다.
 
+해당 문서는 순서 위주로 구성하였으며, 실제 이를 구성하는 Event 및 컨테이너 내부 core, usecase 등의 역할이 궁금할 때는 [이슈링크](https://github.com/SeongWooJo/BE_tools/issues/1) 를 참고해주세요
+
 ---
 
 ## 1. AI Model Zoo

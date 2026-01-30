@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package example;
+
+service DataService {
+  // 다양한 타입을 전송하고 확인하는 RPC
+  rpc SendData (DataRequest) returns (DataResponse);
+}
+
+message DataRequest {
+  // 1. Scalar 타입 (기본)
+  int32 id = 1;
+  string name = 2;
+  double value = 3;
+  bool active = 4;
+
+  // 2. Enum 타입
+  enum Status {
+    UNKNOWN = 0;
+    PENDING = 1;
+    COMPLETED = 2;
+  }
+  Status current_status = 5;
+
+  // 3. Repeated 타입 (List/Array)
+  repeated string tags = 6;
+
+  // 4. Map 타입 (Key-Value)
+  map<string, string> metadata = 7;
+}
+
+message DataResponse {
+  string message = 1;
+  bool success = 2;
+}

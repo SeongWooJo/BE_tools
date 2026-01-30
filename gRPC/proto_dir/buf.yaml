@@ -1,0 +1,10 @@
+# proto_dir/buf.yaml
+version: v2
+modules:
+  - path: proto
+lint:
+  use:
+    - STANDARD
+breaking:
+  use:
+    - FILE

@@ -1,0 +1,2 @@
+2026-01-30 08:16:07,947 [INFO] gRPC start! | rpc=/example.DataService/SendData, correlation_id=f12f4e24-e2e1-4608-a570-96b08cb8192d, req_bytes=77
+2026-01-30 08:16:07,959 [INFO] gRPC response complete | rpc=/example.DataService/SendData, status=OK, latency_ms=15, resp_bytes=12, grpc_request_id=f12f4e24-e2e1-4608-a570-96b08cb8192d

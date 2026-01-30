@@ -1,0 +1,91 @@
+2026-01-30 07:50:30,669 [INFO] --- New Request Received ---
+2026-01-30 07:50:30,670 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 07:50:30,671 [INFO] Status: COMPLETED (2)
+2026-01-30 07:50:30,672 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 07:50:30,672 [INFO] Metadata: env -> dev
+2026-01-30 07:50:30,673 [INFO] Metadata: version -> 1.0.0
+2026-01-30 07:50:30,673 [INFO] --- Request Processed Successfully ---
+2026-01-30 07:50:31,550 [INFO] --- New Request Received ---
+2026-01-30 07:50:31,551 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 07:50:31,551 [INFO] Status: COMPLETED (2)
+2026-01-30 07:50:31,552 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 07:50:31,552 [INFO] Metadata: env -> dev
+2026-01-30 07:50:31,553 [INFO] Metadata: version -> 1.0.0
+2026-01-30 07:50:31,553 [INFO] --- Request Processed Successfully ---
+2026-01-30 07:55:01,818 [INFO] --- New Request Received ---
+2026-01-30 07:55:01,821 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 07:55:01,821 [INFO] Status: COMPLETED (2)
+2026-01-30 07:55:01,822 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 07:55:01,822 [INFO] Metadata: env -> dev
+2026-01-30 07:55:01,823 [INFO] Metadata: version -> 1.0.0
+2026-01-30 07:55:01,824 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:03:06,993 [INFO] gRPC start!
+2026-01-30 08:03:07,000 [INFO] --- New Request Received ---
+2026-01-30 08:03:07,002 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:03:07,003 [INFO] Status: COMPLETED (2)
+2026-01-30 08:03:07,003 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:03:07,004 [INFO] Metadata: env -> dev
+2026-01-30 08:03:07,004 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:03:07,004 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:03:07,005 [INFO] gRPC response complete
+2026-01-30 08:05:42,682 [INFO] gRPC start!
+2026-01-30 08:05:42,684 [INFO] --- New Request Received ---
+2026-01-30 08:05:42,685 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:05:42,685 [INFO] Status: COMPLETED (2)
+2026-01-30 08:05:42,686 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:05:42,686 [INFO] Metadata: env -> dev
+2026-01-30 08:05:42,686 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:05:42,687 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:05:42,688 [INFO] gRPC response complete
+2026-01-30 08:06:05,248 [INFO] --- New Request Received ---
+2026-01-30 08:06:05,250 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:06:05,251 [INFO] Status: COMPLETED (2)
+2026-01-30 08:06:05,251 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:06:05,252 [INFO] Metadata: env -> dev
+2026-01-30 08:06:05,252 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:06:05,253 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:06:40,868 [INFO] gRPC start!
+2026-01-30 08:06:40,870 [INFO] --- New Request Received ---
+2026-01-30 08:06:40,871 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:06:40,871 [INFO] Status: COMPLETED (2)
+2026-01-30 08:06:40,872 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:06:40,873 [INFO] Metadata: env -> dev
+2026-01-30 08:06:40,873 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:06:40,874 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:06:40,875 [INFO] gRPC response complete
+2026-01-30 08:07:09,324 [INFO] gRPC start!
+2026-01-30 08:07:09,327 [INFO] --- New Request Received ---
+2026-01-30 08:07:09,328 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:07:09,329 [INFO] Status: COMPLETED (2)
+2026-01-30 08:07:09,329 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:07:09,330 [INFO] Metadata: env -> dev
+2026-01-30 08:07:09,330 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:07:09,331 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:07:09,332 [INFO] gRPC response complete
+2026-01-30 08:07:58,032 [INFO] gRPC start!
+2026-01-30 08:07:58,037 [INFO] --- New Request Received ---
+2026-01-30 08:07:58,039 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:07:58,040 [INFO] Status: COMPLETED (2)
+2026-01-30 08:07:58,040 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:07:58,040 [INFO] Metadata: env -> dev
+2026-01-30 08:07:58,042 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:07:58,042 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:07:58,043 [INFO] gRPC response complete
+2026-01-30 08:10:53,977 [INFO] gRPC start!
+2026-01-30 08:10:53,985 [INFO] --- New Request Received ---
+2026-01-30 08:10:53,987 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:10:53,988 [INFO] Status: COMPLETED (2)
+2026-01-30 08:10:53,988 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:10:53,989 [INFO] Metadata: env -> dev
+2026-01-30 08:10:53,989 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:10:53,990 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:10:53,991 [INFO] gRPC response complete
+2026-01-30 08:16:07,947 [INFO] gRPC start! | rpc=/example.DataService/SendData, correlation_id=f12f4e24-e2e1-4608-a570-96b08cb8192d, req_bytes=77
+2026-01-30 08:16:07,953 [INFO] --- New Request Received ---
+2026-01-30 08:16:07,955 [INFO] ID: 101, Name: SeongWoo
+2026-01-30 08:16:07,956 [INFO] Status: COMPLETED (2)
+2026-01-30 08:16:07,956 [INFO] Tags: ['python', 'grpc', 'docker']
+2026-01-30 08:16:07,957 [INFO] Metadata: env -> dev
+2026-01-30 08:16:07,957 [INFO] Metadata: version -> 1.0.0
+2026-01-30 08:16:07,958 [INFO] --- Request Processed Successfully ---
+2026-01-30 08:16:07,959 [INFO] gRPC response complete | rpc=/example.DataService/SendData, status=OK, latency_ms=15, resp_bytes=12, grpc_request_id=f12f4e24-e2e1-4608-a570-96b08cb8192d
